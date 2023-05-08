@@ -1,6 +1,6 @@
 # Destiny_Page
 Paginas remasterizadas de proyectos escolares
-Esta web se estara actualizando constantemente para ver mis avances como desarrollador web
+Esta web se seguira actualizando para ver mis avances como desarrollador web
 
 
 ## Link
